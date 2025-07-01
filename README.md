@@ -53,7 +53,7 @@ You can also find a short clip on [LinkedIn](#) or YouTube (link to be added).
 
 For more details or questions, feel free to reach out:
 
-- 👤 Tanmay Chimankar  
+- 👤   Vaishnavi Wadkar
 - 📫 Email: [wadkarvaishnavi230@gmail.com]  
 - 🔗 LinkedIn: [www.linkedin.com/in/vaishnaviwadkar]  
 
