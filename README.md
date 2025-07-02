@@ -1,6 +1,28 @@
-# Final Year Project: Simulation and Analysis of Antenna Used for AR/VR Application
+# Final Year Project: Simulation and Analysis of Antenna Used for AR/VR Applications
 
-This repository contains the final year engineering project titled *"Simulation and Analysis of Antenna Used for AR/VR Applications". The project involves the design, simulation, and analysis of a **slotted square microstrip patch antenna* intended for *millimeter-wave (mmWave)* operation at *26 GHz, suitable for applications in **Augmented Reality (AR)* and *Virtual Reality (VR)*.
+## 📌 Project Overview
+This project focuses on the design, simulation, and performance evaluation of a **slotted square microstrip patch antenna** tailored for **26 GHz mmWave frequency**, ideal for **Augmented Reality (AR)** and **Virtual Reality (VR)** applications.
+
+## 🛰️ Key Features
+- **Antenna Type:** Slotted Square Microstrip Patch Antenna  
+- **Target Frequency:** 26 GHz (mmWave Band)  
+- **Application Area:** AR/VR Systems  
+
+## 🛠️ Tools & Technologies
+- **Simulation Tool:** Ansys HFSS  
+- **Optional Analysis:** MATLAB  
+- **Documentation:** MS Word, LaTeX (Overleaf)
+
+## 📊 Performance Parameters Analyzed
+- Return Loss (S11)  
+- Voltage Standing Wave Ratio (VSWR)  
+- Gain and Directivity  
+- 2D and 3D Radiation Patterns  
+
+## 📂 Repository Structure
+# 🛰 Simulation and Analysis of Antenna Used for AR/VR Applications
+
+This repository contains the final year engineering project titled "Simulation and Analysis of Antenna Used for AR/VR Applications". The project involves the design, simulation, and analysis of a slotted square microstrip patch antenna intended for millimeter-wave (mmWave) operation at 26 GHz, suitable for applications in Augmented Reality (AR) and Virtual Reality (VR).
 
 ## 📌 Project Objectives
 
@@ -11,9 +33,9 @@ This repository contains the final year engineering project titled *"Simulation 
 
 ## 🛠 Tools & Technologies Used
 
-- *Ansys HFSS* – for electromagnetic simulation and 3D modeling.
-- *MATLAB* (optional) – for signal processing and plotting (if used).
-- *Microsoft Word / LaTeX* – for documentation and report writing.
+- Ansys HFSS – for electromagnetic simulation and 3D modeling.
+- MATLAB (optional) – for signal processing and plotting (if used).
+- Microsoft Word / LaTeX – for documentation and report writing.
 
 ## 📊 Key Parameters Analyzed
 
@@ -39,10 +61,10 @@ This repository contains the final year engineering project titled *"Simulation 
 
 ## 🎓 Academic Information
 
-- *Degree:* B.E. in Electronics and Telecommunication (EXTC)  
-- *University:* University of Mumbai  
-- *Project Type:* Final Year Major Project  
-- *Year:* 2025  
+- Degree: B.E. in Electronics and Telecommunication (EXTC)  
+- University: University of Mumbai  
+- Project Type: Final Year Major Project  
+- Year: 2025  
 
 ## 📽 Demo
 
@@ -53,7 +75,7 @@ You can also find a short clip on [LinkedIn](#) or YouTube (link to be added).
 
 For more details or questions, feel free to reach out:
 
-- 👤   Vaishnavi Wadkar
+- 👤 Vaishnavi Wadkar  
 - 📫 Email: [wadkarvaishnavi230@gmail.com]  
 - 🔗 LinkedIn: [www.linkedin.com/in/vaishnaviwadkar]  
 
